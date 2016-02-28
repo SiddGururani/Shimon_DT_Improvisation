@@ -46,7 +46,8 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-.mid
-.mat
-.rar
-.zip
+*.mid
+*.mat
+*.rar
+*.zip
+*.gp*
